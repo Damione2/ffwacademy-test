@@ -8,4 +8,5 @@ use \FileUpload\Validator\Simple as SimpleFileValidator;
 
 $validator = new SimpleFileValidator('2M', ['image/php', 'image/jpg']);
 
+
 var_dump($validator);
