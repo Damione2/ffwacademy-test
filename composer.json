@@ -1,0 +1,21 @@
+{
+    "name": "damyan/ffwacademy-test",
+    "description": "This is example project",
+    "type": "project",
+    "require": {
+        "gargron/fileupload": "^1.4"
+    },
+    "license": "GNU2",
+    "autoload": {
+        "psr-4": {
+            "Damyan\\FfwacademyTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Damione2",
+            "email": "damione1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
